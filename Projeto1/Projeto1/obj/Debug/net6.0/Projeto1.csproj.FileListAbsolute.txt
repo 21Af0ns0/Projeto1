@@ -1,0 +1,17 @@
+C:\Projetos\#1\Projeto1\Projeto1\bin\Debug\net6.0\Projeto1.exe
+C:\Projetos\#1\Projeto1\Projeto1\bin\Debug\net6.0\Projeto1.deps.json
+C:\Projetos\#1\Projeto1\Projeto1\bin\Debug\net6.0\Projeto1.runtimeconfig.json
+C:\Projetos\#1\Projeto1\Projeto1\bin\Debug\net6.0\Projeto1.dll
+C:\Projetos\#1\Projeto1\Projeto1\bin\Debug\net6.0\Projeto1.pdb
+C:\Projetos\#1\Projeto1\Projeto1\obj\Debug\net6.0\Projeto1.csproj.AssemblyReference.cache
+C:\Projetos\#1\Projeto1\Projeto1\obj\Debug\net6.0\Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\#1\Projeto1\Projeto1\obj\Debug\net6.0\Projeto1.AssemblyInfoInputs.cache
+C:\Projetos\#1\Projeto1\Projeto1\obj\Debug\net6.0\Projeto1.AssemblyInfo.cs
+C:\Projetos\#1\Projeto1\Projeto1\obj\Debug\net6.0\Projeto1.csproj.CoreCompileInputs.cache
+C:\Projetos\#1\Projeto1\Projeto1\obj\Debug\net6.0\Projeto1.dll
+C:\Projetos\#1\Projeto1\Projeto1\obj\Debug\net6.0\refint\Projeto1.dll
+C:\Projetos\#1\Projeto1\Projeto1\obj\Debug\net6.0\Projeto1.pdb
+C:\Projetos\#1\Projeto1\Projeto1\obj\Debug\net6.0\Projeto1.genruntimeconfig.cache
+C:\Projetos\#1\Projeto1\Projeto1\obj\Debug\net6.0\ref\Projeto1.dll
+C:\Projetos\#1\Projeto1\Projeto1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projetos\#1\Projeto1\Projeto1\obj\Debug\net6.0\Projeto1.csproj.CopyComplete
